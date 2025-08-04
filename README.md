@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [gitub](https://github.com/nischalkasyap/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nischalkasyap/](https://github.com/nischalkasyap/)
+- 👨‍💻 All of my projects are available at [https://github.com/nischalkasyap/](https://github.com/nischalkasyap?tab=repositories)
 
 - 💬 Ask me about **python django**
 
